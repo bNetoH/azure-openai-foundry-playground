@@ -60,7 +60,7 @@ A tokenização define como um texto é segmentado em tokens antes do processame
 | **DALL·E**        | Geração de imagens a partir de descrições textuais, útil para design e criação de conteúdos visuais.                       |
 | **Whisper**       | Modelo de reconhecimento de fala para transcrição de áudio em diferentes idiomas, aplicável a legendagem e acessibilidade. |
 
-Veja mais informações sobre **Modelos disponíveis na inferência de modelo de IA do Azure** em: https://learn.microsoft.com/pt-br/azure/ai-foundry/model-inference/concepts/models
+Veja mais informações sobre **Modelos disponíveis na inferência de modelo de IA do Azure** no [Microsoft Docs](https://learn.microsoft.com/pt-br/azure/ai-foundry/model-inference/concepts/models)
 
 ## Conclusão
 
